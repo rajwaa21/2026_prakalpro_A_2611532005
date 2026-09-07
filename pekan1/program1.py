@@ -1,4 +1,4 @@
-#Program pertama
+# Program pertama
 """
 Komentar
 dua baris atau lebih
@@ -9,5 +9,5 @@ print()
 print("Program ini menghasilkan")
 print("Empat baris output")
 print("/ \\ // \\\ /// \\\\\\")
-print("program ini" + "dibuat oleh a\n"
-+ "Rajwa Hasna Khairiyah dan 2611532005.")
+print("program ini" + " dibuat oleh " +
+ "Rajwa Hasna Khairiyah dan 2611532005")
