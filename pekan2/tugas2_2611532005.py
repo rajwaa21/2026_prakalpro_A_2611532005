@@ -1,6 +1,6 @@
 print ("=== SISTEM REGISTRASI PRAKTIKAN ALPRO 2026 ===")
 
-nama_1007 = input(str("Masukkan Nama Mahasiswa : "))
+nama_2005 = input(str("Masukkan Nama Mahasiswa : "))
 jenis_kelamin_2005 = input ("Masukkan Jenis Kelamin (L/P) : ")
 umur_2005 = int(input("Masukkan Umur : "))
 skor_tes_awal_2005 = float(input("Masukkan Skor Tes Awal : "))
