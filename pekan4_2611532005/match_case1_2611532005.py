@@ -13,7 +13,7 @@ match bulan_2005:
         print("Februari")
     case 3:
         print("Maret")
-    case 4: 
+    case 4:
         print("April")
     case 5:
         print("Mei")
@@ -21,7 +21,7 @@ match bulan_2005:
         print("Juni")
     case 7:
         print("Juli")
-    case 8: 
+    case 8:
         print("Agustus")
     case 9:
         print("September")
@@ -29,7 +29,7 @@ match bulan_2005:
         print("Oktober")
     case 11:
         print("November")
-    case 12: 
+    case 12:
         print("Desember")
     case _:
-        print("Angka tidak valid")
+        print("Bulan tidak valid, masukkan angka 1-12.")
