@@ -309,7 +309,7 @@ def module_constant(tree, name):
 
 
 def check_task(task, runner_path, t):
-    path = task["file"]
+    path = "praktikum-06-perulangan-2611532005/" + task["file"]
     if not os.path.isfile(path):
         return "skip" if task.get("optional") else "missing", []
     with open(path, encoding="utf-8") as source:
