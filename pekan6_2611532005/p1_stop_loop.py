@@ -2,8 +2,5 @@
 count_2005 = 1
 
 while count_2005 <= 3:
-    print("Loop is running:", count)
+    print("Loop is running:", count_2005)
 
-git add .
-git commit -m "first loop test"
-git push
