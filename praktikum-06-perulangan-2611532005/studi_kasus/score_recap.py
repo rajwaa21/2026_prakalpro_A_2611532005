@@ -11,6 +11,7 @@ passed = 0
 excellent = 0
 
 for n in range(1, student + 1):
+    print("Student " + str(n))
     nilai = int(input("Enter score: "))
     while nilai < 0 or nilai > 100:
         print("Invalid score!")
